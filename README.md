@@ -42,7 +42,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/AbhijeetNagar56
+- Linkedin: https://www.linkedin.com/in/abhijeet-nagar-a44007308/
 - Email: *nagarabhijeet0@gmail.com*
 
 ---
