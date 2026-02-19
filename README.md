@@ -40,9 +40,9 @@
 
 ## 📫 Features
 
-- Leetcode : https://leetcode.com/u/gzfBDDBp1L/
-- Codeforces : https://codeforces.com/profile/Zavier5605
-- HackerRank : https://www.hackerrank.com/profile/nagarabhijeet0
-- codechef : https://www.codechef.com/users/nagarabhi56
+- **Leetcode :** https://leetcode.com/u/gzfBDDBp1L/
+- **Codeforces :** https://codeforces.com/profile/Zavier5605
+- **HackerRank :** https://www.hackerrank.com/profile/nagarabhijeet0
+- **codechef :** https://www.codechef.com/users/nagarabhi56
 
 ---
