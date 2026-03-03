@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Nagar</h1>
-<h3 align="center">MERN Stack Developer in Progress | Linux Enthusiast | DSA in JAVA</h3>
+<h3 align="center">MERN Stack Developer in Progress | Linux Enthusiast | JAVA + DSA</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
