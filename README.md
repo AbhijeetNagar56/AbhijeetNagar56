@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Nagar</h1>
-<h3 align="center">MERN Stack Developer in Progress | Linux Enthusiast | JAVA + DSA</h3>
+<h3 align="center">MERN Stack Developer | Linux Enthusiast | JAVA + DSA</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🤝 Passionate about **Open Source & Collaboration**.
@@ -36,6 +35,7 @@
 - 📚 Exploring open-source projects.
 - 💡 Open to contributing and collaborating on beginner-friendly projects.
 
+
 ---
 
 ## 📫 Features
@@ -44,5 +44,6 @@
 - **Codeforces :** https://codeforces.com/profile/Zavier5605
 - **HackerRank :** https://www.hackerrank.com/profile/nagarabhijeet0
 - **codechef :** https://www.codechef.com/users/nagarabhi56
+
 
 ---
