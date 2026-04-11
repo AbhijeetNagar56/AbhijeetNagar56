@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhijeet+Nagar;MERN+Stack+Developer;Linux+Enthusiast;JAVA+%2B+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhijeet+Nagar;MERN+Stack+Developer;Linux+and+Shell+Scripting;Data+Structure+and+Algorithms" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
@@ -51,4 +52,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=flat-square" alt="Profile Views
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetNagar56&color=00D9FF&style=flat-square" alt="Profile Views" >
+</div>
