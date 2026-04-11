@@ -8,6 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
 </div>
 
