@@ -93,7 +93,7 @@
   <a href="https://abhijeetnagar.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nagarabhijeet0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
