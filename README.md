@@ -80,7 +80,7 @@
 | Platform | Link |
 |----------|------|
 | 🏆 **LeetCode** | [View Profile](https://leetcode.com/u/gzfBDDBp1L/) |
-| ⚡ **Codeforces** | [View Profile](https://codeforces.com/profile/Zavier5605) |
+| ⚡ **Codeforces** | [View Profile](https://codeforces.com/profile/abhijeetnagar56) |
 | 💻 **HackerRank** | [View Profile](https://www.hackerrank.com/profile/nagarabhijeet0) |
 | 🍲 **CodeChef** | [View Profile](https://www.codechef.com/users/nagarabhi56) |
 
