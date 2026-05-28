@@ -1,15 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhijeet+Nagar;MERN+Stack+Developer;Linux+and+Shell+Scripting;Data+Structure+and+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhijeet+Nagar;Web+Devlopment;Linux+and+Shell+Scripts;Data+Structures+and+Algorithms" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </div>
 
 ---
@@ -17,27 +14,25 @@
 ### 🚀 Tech Stack
 
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="margin: 15px;"/> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" style="margin: 15px;"/>
 </div>
 
 ---
 **Infrastructure & Dev Tools**
 * **Version Control:** Git & GitHub
-* **DevOps:** Docker, Kubernetes, and Bash/Shell for CI/CD automation.
-* **System Admin:** Linux terminal usage, SSH, and Permission Management.
-
+* **DevOps:** Linux, Docker and Bash/Shell.
+  
 ---
 
 ### 💡 What I'm Up To
 
-> 🤝 **Open Source:** Contributing to repositories that improve developer productivity. |
-> 🚀 **Building:** Currently architecting a real-time chat App using Socket.io and MERN. |
+> 🤝 **Open Source:** Contributing to repositories that improve developer productivity.<br>
 > 📚 **Learning:** Diving deeper into System Design patterns.
 
 ---
@@ -82,7 +77,6 @@
 | 🏆 **LeetCode** | [View Profile](https://leetcode.com/u/gzfBDDBp1L/) |
 | ⚡ **Codeforces** | [View Profile](https://codeforces.com/profile/abhijeetnagar56) |
 | 💻 **HackerRank** | [View Profile](https://www.hackerrank.com/profile/nagarabhijeet0) |
-| 🍲 **CodeChef** | [View Profile](https://www.codechef.com/users/nagarabhi56) |
 
 
 ---
@@ -97,7 +91,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 
 <div align="">
