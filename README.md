@@ -2,31 +2,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhijeet+Nagar;Web+Devlopment;Linux+and+Shell+Scripts;Data+Structures+and+Algorithms" alt="Typing SVG" />
 </div>
 
+---
+
+### 🚀 Tools & languages
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" style="margin: 10px; animation: float 3s ease-in-out infinite;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-</div>
-
----
-
-### 🚀 Tech Stack
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" style="margin: 15px;"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" width="50" style="margin: 15px;"/>
 </div>
 
----
-**Infrastructure & Dev Tools**
-* **Version Control:** Git & GitHub
-* **DevOps:** Linux, Docker and Bash/Shell.
   
 ---
 
@@ -34,6 +31,7 @@
 
 > 🤝 **Open Source:** Contributing to repositories that improve developer productivity.<br>
 > 📚 **Learning:** Diving deeper into System Design patterns.
+<br>
 
 ---
 
